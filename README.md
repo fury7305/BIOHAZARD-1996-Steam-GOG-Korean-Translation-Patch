@@ -1,4 +1,4 @@
-# BIOHAZARD-1996-Steam-GOG-Korean-Translation-Patch
+# 바이오하자드 PC(Steam & GOG) 한국어 패치 V1.0
 BIO HAZARD PC 한국어 패치 v1.0
 
 BIO HAZARD (1996) — Korean Translation Patch
