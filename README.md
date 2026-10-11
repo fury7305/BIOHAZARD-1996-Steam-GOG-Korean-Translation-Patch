@@ -1,7 +1,7 @@
 # BIOHAZARD-1996-Steam-GOG-Korean-Translation-Patch
 BIO HAZARD PC 한국어 패치 v1.0
 
-Resident Evil / BIO HAZARD (1996) — Korean Translation Patch
+BIO HAZARD (1996) — Korean Translation Patch
 
 GOG 및 Steam판 바이오하자드 1 PC 한국어 패치입니다.
 
@@ -9,8 +9,6 @@ GOG 및 Steam판 바이오하자드 1 PC 한국어 패치입니다.
 
 지원 플랫폼
 
-GOG
-
-Steam
+Steam & GOG
 
 ※ 1996년 원작 PC판 대상. 리메이크판 미지원.
